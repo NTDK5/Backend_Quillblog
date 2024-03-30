@@ -7,7 +7,7 @@ import {
   createBlog,
   updateBlog,
   deleteBlog,
-} from "../controllers/blogController.js";
+} from "../Controllers/blogController.js";
 import multer from "multer";
 import path from "path";
 
